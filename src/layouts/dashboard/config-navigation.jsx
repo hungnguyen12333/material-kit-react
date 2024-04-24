@@ -13,6 +13,21 @@ const navConfig = [
     icon: icon('ic_analytics'),
   },
   {
+    title: 'keywords',
+    path: '/keywords',
+    icon: icon('ic_user'),
+  },
+  {
+    title: 'hashtags',
+    path: '/hashtags',
+    icon: icon('ic_user'),
+  },
+  {
+    title: 'chanels',
+    path: '/chanels',
+    icon: icon('ic_user'),
+  },
+  {
     title: 'user',
     path: '/user',
     icon: icon('ic_user'),
